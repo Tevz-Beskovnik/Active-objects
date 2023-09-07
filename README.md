@@ -1,3 +1,3 @@
 # Active objects / Event-driven programing
 
-This project includes and demostrates, how the event-driven programing method of so called "active objects", can be used and implemented on the ESP32. This can be particularly usefull when programing a GUI. You can read more about this topic at this [article](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0c0TFJ0ei1RbG82TWdzdl9Yc3hHVXUwQ0Vjd3xBQ3Jtc0ttZ0JncmlBSHlNVXpYT292LUEtOGFwRU5INW9aR21pd3k2RFA2X1d5MXVVRWxDcmlFNUZiOUxyNldBd1JqNE54b3V0TWZMVkNwdUxwalFrZF9VQ28tQTJwYlJXd2QyclltVm04cEFpam5maUk2MG1GSQ&q=https%3A%2F%2Fwww.state-machine.com%2Fdoc%2FSutter2010a.pdf&v=l69ghMpsp6w)
+This project includes and demostrates, how the event-driven programing method of so called "active objects", can be used and implemented on the ESP32. This can be particularly usefull when programing a GUI. You can read more about this topic at this [article](https://www.state-machine.com/doc/Sutter2010a.pdf)
